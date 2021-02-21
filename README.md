@@ -4,4 +4,4 @@ This repository contains the files for the Speed Up the Assignment Algorithm Ass
 
 - dist_python.py
   - A Python program to accomplish the first assignment task, computing distances between two sets of MNIST images, using Python loops
-  - A folder containing four sets of MNIST images
+- A folder named `data` containing four sets of MNIST images
